@@ -1,0 +1,19 @@
+timestamp,label,confidence,image_path,quantity,waste_type,source
+2026-03-10 14:20:00,sluikstort,0.91,captured/test1.jpg,2,onbekend,simulatie
+2026-03-10 15:05:00,sluikstort,0.87,captured/test2.jpg,1,onbekend,simulatie
+2026-03-11 09:40:00,sluikstort,0.95,captured/test3.jpg,3,onbekend,simulatie
+2026-03-11 18:10:00,sluikstort,0.89,captured/test1.jpg,1,onbekend,simulatie
+2026-03-17 10:59:52,sluikstort,0.9,captured\test1.jpg,1,onbekend,simulatie
+2026-03-17 11:00:03,sluikstort,0.36,captured\test1.jpg,1,onbekend,simulatie
+2026-03-17 11:00:31,sluikstort,0.02,captured\test2.jpg,1,onbekend,simulatie
+2026-03-17 11:15:18,sluikstort,0.93,captured\test1.jpg,1,onbekend,simulatie
+2026-03-17 13:26:43,sluikstort,0.9,captured\full_width_statiegeld-blikjes-afval-zwerfvuil-1280.jpg,1,onbekend,simulatie
+2026-03-17 13:42:00,sluikstort,0.9820594191551208,captured\Sluikstort.jpg,1,vuilnis,ai_combined
+2026-03-17 14:20:55,sluikstort,0.9999942779541016,captured\stream_auto_20260317_142055.jpg,1,textiel,stream_auto
+2026-03-17 14:41:48,sluikstort,0.9999947547912598,captured\stream_manual_20260317_144148.jpg,1,textiel,stream_manual
+2026-03-17 14:54:08,sluikstort,0.9995421171188354,captured\stream_auto_20260317_145408.jpg,1,vuilnis,stream_auto
+2026-03-19 09:07:49,sluikstort,0.9723941683769226,captured\stream_auto_20260319_090749.jpg,1,textiel,stream_auto
+2026-03-19 09:14:17,sluikstort,0.9994244575500488,captured\stream_auto_20260319_091417.jpg,1,textiel,stream_auto
+2026-03-19 09:47:49,sluikstort,0.9991740584373474,captured\interval_auto_20260319_094749.jpg,1,textiel,interval_auto
+2026-03-19 09:52:49,sluikstort,0.9145116806030272,captured\interval_auto_20260319_095249.jpg,1,plastic flesje,interval_auto
+2026-03-19 09:53:09,sluikstort,0.8270818591117859,captured\interval_auto_20260319_095309.jpg,1,textiel,interval_auto

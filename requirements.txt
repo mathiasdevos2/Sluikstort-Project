@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+pillow
+plotly
+numpy<2
+tensorflow==2.12.0
+keras==2.12.0
+opencv-python
+streamlit-autorefresh
+streamlit-webrtc
+av

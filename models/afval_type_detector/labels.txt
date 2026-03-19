@@ -1,0 +1,15 @@
+0 batterijen
+1 blikjes
+2 GFT
+3 glazen fles
+4 uitwerpselen
+5 kartonnen doos
+6 plastic zak
+7 propjes
+8 sigarettenpeuken
+9 snoeppapiertjes
+10 verfpot
+11 vuilnis
+12 vuilniszakken
+13 plastic flesje
+14 textiel
